@@ -7,4 +7,4 @@ echo "Mother of the house: ${FAMILY[1]}"
 echo "Elder son of the house: ${FAMILY[2]}"
 echo "Younger sonf the house: ${FAMILY[3]}"
 
-echo "All family members names: ${FAMILY[4]}"
+echo "All family members names: ${FAMILY[@]}"
